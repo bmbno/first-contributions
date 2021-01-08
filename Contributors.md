@@ -248,6 +248,7 @@
 - [Jordan Mathew](https://github.com/jmat94)
 - [Shrey Pateliya]
 - [Greatness Akuma](https://github.com/GREATNESS1504)
+- [Gabe Ng](https://github.com/bmbno)
 - [Shivam Saraswat](https://github.com/shivamsaraswat8)
 - [Mohit Sahu](https://github.com/SahuMohit)
 - [Nikhil Barot](https://github.com/Nikhil1602)
